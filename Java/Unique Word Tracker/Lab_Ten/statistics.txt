@@ -1,2 +1,0 @@
-tinyTale.txt has 20 distinct words!
-tale.txt has 10679 distinct words!

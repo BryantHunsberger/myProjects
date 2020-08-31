@@ -1,5 +1,0 @@
-commit a32d8583d92efe6de7789af8dc638cadb726010a
-Author: Bryant Hunsberger <bjhunsbe@iu.edu>
-Date:   Tue Aug 25 21:43:00 2020 -0400
-
-	1st Commit
