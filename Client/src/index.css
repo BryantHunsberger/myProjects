@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Crimson+Text:wght@600&family=IBM+Plex+Serif&family=Kaushan+Script&family=Libre+Baskerville:wght@400;700&family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=Roboto&family=Source+Code+Pro&display=swap');
+
+.homeChatFont{
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.eduformPageFont{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.headers{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.bryantsname{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.computerfont{
+    font-family: 'Source Code Pro', monospace;
+}
+.content{
+    font-family: 'Roboto', sans-serif;
+}
